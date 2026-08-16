@@ -13,7 +13,7 @@ int main (){
 
 unsigned int k = 10 ;      // only store positive values 
  
-cout << k << endl;
+cout << k <<  endl;
 
 
 signed int j = -15 ;      // store both positive and negative values
