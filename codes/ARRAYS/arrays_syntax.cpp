@@ -6,7 +6,7 @@ int main (){
      
       marks [0] = 101;                   // to change any particular value in array
 
-    cout << marks [0] << endl;            // use of [index] to print numbers in arrays
+    cout << marks [0] <<   endl;            // use of [index] to print numbers in arrays
 
     cout << marks [1] << endl; 
 
